@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thaina</h1>
 
-- 🔭 I’m currently working as a **IT Infrastruture Intern**
+- 🔭 I’m currently working as a **IT Infrastructure Intern**
 - 🌱 I’m currently studying **Computer Engineering**
 - 📄 Know about my experiences [https://www.linkedin.com/in/thainadias-/](https://www.linkedin.com/in/thainadias-/)
 
