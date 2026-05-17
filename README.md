@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thaina</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as a **QA Intern**
+- 🔭 I’m currently working as a **IT Infrastruture Intern**
 - 🌱 I’m currently studying **Computer Engineering**
 - 📄 Know about my experiences [https://www.linkedin.com/in/thainadias-/](https://www.linkedin.com/in/thainadias-/)
 
